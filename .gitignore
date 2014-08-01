@@ -1,2 +1,3 @@
 *.iso
 example-ubuntu-vm
+packer_cache
