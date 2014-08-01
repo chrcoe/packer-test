@@ -4,4 +4,5 @@
 * have VMWare installed (setup locally)
 * run with:
 
-    packer build vmware-example.json
+        packer build vmware-example.json
+
